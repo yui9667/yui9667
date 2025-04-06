@@ -15,19 +15,21 @@ Hi, I'm Yui Jensen! I'm a passionate developer with a knack for creating efficie
 - 💜 My Portfolio [https://yui9667.github.io/portfolio-y/]
 
 ## Tools I Use 🛠️
-
-<img src="images/html.svg">
-<img src="images/css.svg">
-<img src="images/sass.svg">
-<img src="images/bootstrap.svg">
-<img src="images/tailwindcss.svg">
-<img src="images/figma.svg">
-<img src="images/js.svg">
-<img src="images/ts.svg">
-<img src="images/react.svg">
-<img src="images/vscode.svg">
-<img src="images/vite.svg">
-<img src="images/express.svg">
-<img src="images/mongodb.svg">
-<img src="images/nodejs.svg">
-<img src="images/postgresql.svg">
+<div>
+  
+<img  src="images/html.svg" width="50">
+<img src="images/css.svg" width="50">
+<img src="images/sass.svg" width="50">
+<img src="images/bootstrap.svg" width="50">
+<img src="images/tailwindcss.svg" width="50">
+<img src="images/figma.svg" width="50">
+<img src="images/js.svg" width="50">
+<img src="images/ts.svg" width="50">
+<img src="images/react.svg" width="50">
+<img src="images/vscode.svg" width="50">
+<img src="images/vite.svg" width="50">
+<img src="images/express.svg" width="50">
+<img src="images/mongodb.svg" width="50">
+<img src="images/nodejs.svg" width="50">
+<img src="images/postgresql.svg" width="50">
+</div>
