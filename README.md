@@ -33,3 +33,9 @@ Hi, I'm Yui Jensen! I'm a passionate developer who loves solving problems and co
 <img src="images/nodejs.svg" width="50">
 <img src="images/postgresql.svg" width="50">
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yui9667/yui9667/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yui9667/yui9667/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yui9667/yui9667/output/github-contribution-grid-snake.svg">
+</picture>
