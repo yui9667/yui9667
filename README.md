@@ -28,8 +28,9 @@ Hi, I'm Yui Jensen! I'm a passionate developer who loves solving problems and co
 <img src="images/react.svg" width="50">
 <img src="images/vscode.svg" width="50">
 <img src="images/vite.svg" width="50">
+<img src="images/vitest.svg" width="50">
 <img src="images/express.svg" width="50">
-<img src="images/mongodb.svg" width="50">
 <img src="images/nodejs.svg" width="50">
+<img src="images/mongodb.svg" width="50">
 <img src="images/postgresql.svg" width="50">
 </div>
