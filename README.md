@@ -17,22 +17,22 @@ Hi, I'm Yui Jensen! I'm a passionate developer who loves solving problems and co
 
 <div>
 
-<img  src="images/html.svg" width="50">
-<img src="images/css.svg" width="50">
-<img src="images/sass.svg" width="50">
-<img src="images/bootstrap.svg" width="50">
-<img src="images/tailwindcss.svg" width="50">
-<img src="images/figma.svg" width="50">
-<img src="images/js.svg" width="50">
-<img src="images/ts.svg" width="50">
-<img src="images/react.svg" width="50">
-<img src="images/vscode.svg" width="50">
-<img src="images/vite.svg" width="50">
-<img src="images/vitest.svg" width="50">
-<img src="images/express.svg" width="50">
-<img src="images/nodejs.svg" width="50">
-<img src="images/mongodb.svg" width="50">
-<img src="images/postgresql.svg" width="50">
+<img  src="images/html.svg" width="45">
+<img src="images/css.svg" width="45">
+<img src="images/sass.svg" width="45">
+<img src="images/bootstrap.svg" width="45">
+<img src="images/tailwindcss.svg" width="45">
+<img src="images/figma.svg" width="45">
+<img src="images/js.svg" width="45">
+<img src="images/ts.svg" width="45">
+<img src="images/react.svg" width="45">
+<img src="images/vscode.svg" width="45">
+<img src="images/vite.svg" width="45">
+<img src="images/vitest.svg" width="45">
+<img src="images/express.svg" width="45">
+<img src="images/nodejs.svg" width="45">
+<img src="images/mongodb.svg" width="45">
+<img src="images/postgresql.svg" width="45">
 </div>
 
 <picture>
