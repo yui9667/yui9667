@@ -26,6 +26,7 @@ Hi, I'm Yui Jensen! I'm a passionate developer who loves solving problems and co
 <img src="images/js.svg" width="45">
 <img src="images/ts.svg" width="45">
 <img src="images/react.svg" width="45">
+<img src="images/nextjs.svg" width="45">
 <img src="images/vscode.svg" width="45">
 <img src="images/vite.svg" width="45">
 <img src="images/vitest.svg" width="45">
